@@ -1,7 +1,7 @@
 # BRIGHT-COFFEE-SALES-ANALYSIS
 END TO END DATA ANALYTICS PROJECT
 
-                                                     📌 Project Overview
+																				📌 Project Overview
 
 This project analyses transactional sales data from a multi-store coffee shop business to uncover trends, measure business performance, and generate actionable insights. The objective was to transform raw sales data into meaningful business intelligence using SQL for data preparation and Microsoft Excel for data analysis and visualisation.
 
@@ -14,8 +14,7 @@ This project analyses transactional sales data from a multi-store coffee shop bu
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-
-                                                      🎯 Project Objectives
+																				🎯 Project Objectives
 
 The main objectives of this project were to:
 
@@ -27,7 +26,7 @@ The main objectives of this project were to:
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-                                                             🗂 Project Planning
+																				🗂 Project Planning
 
 The project followed a structured data analytics workflow:
 
@@ -63,8 +62,7 @@ Interactive charts and dashboards were designed to communicate findings clearly 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-
-                                                     🛠 Tools Used
+																					🛠 Tools Used
 
 Databricks Community Edition
 -SQL
@@ -88,7 +86,7 @@ Business Reporting
 GitHub
 -Project Documentation
 
------------------------------------------------------------------------------------------------------------------------------------------                                                 📊 Key Performance Indicators (KPIs)
+-----------------------------------------------------------------------------------------------------------------------------------------																				📊 Key Performance Indicators (KPIs)
 
 The following KPIs were developed:
 
@@ -100,8 +98,8 @@ The following KPIs were developed:
 *Number of Product Categories
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-
-                                                              📈 Analysis Performed
+																				
+																				📈 Analysis Performed
 
 The project explored several business perspectives, including:
 
@@ -118,8 +116,7 @@ The project explored several business perspectives, including:
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-
-                                                          💡 Key Findings
+																						💡 Key Findings
 
 The analysis revealed several important business insights:
 
